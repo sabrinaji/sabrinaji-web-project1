@@ -1,0 +1,28 @@
+body {
+    width: 100vw;
+    background-color: salmon;
+    color: blue;
+    font-size: 48px;
+}
+
+div {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+
+
+
+/* 
+  @keyframes fall {
+    0% {
+      transform: translateY(300px) skew(0deg, 0deg)
+    }
+    100% {
+      transform: translateY(300px) skew(-180deg, 180deg)
+    }
+  }
+ */
